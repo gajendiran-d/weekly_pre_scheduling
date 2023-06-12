@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<teams>
+    <team>
+        <teamid>1</teamid>
+        <teamname>Team A</teamname>
+    </team>
+    <team>
+        <teamid>2</teamid>
+        <teamname>Team B</teamname>
+    </team>
+    <team>
+        <teamid>3</teamid>
+        <teamname>Team C</teamname>
+    </team>
+</teams>

@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<employees>
+    <employee>
+        <employeeid>1</employeeid>
+        <employeename>Employee 1</employeename>
+        <teamid>1</teamid>
+        <teamname>Team A</teamname>
+    </employee>
+    <employee>
+        <employeeid>2</employeeid>
+        <employeename>Employee 2</employeename>
+        <teamid>1</teamid>
+        <teamname>Team A</teamname>
+    </employee>
+    <employee>
+        <employeeid>3</employeeid>
+        <employeename>Employee 3</employeename>
+        <teamid>2</teamid>
+        <teamname>Team B</teamname>
+    </employee>
+    <employee>
+        <employeeid>4</employeeid>
+        <employeename>Employee 4</employeename>
+        <teamid>2</teamid>
+        <teamname>Team B</teamname>
+    </employee>
+    <employee>
+        <employeeid>5</employeeid>
+        <employeename>Employee 3</employeename>
+        <teamid>3</teamid>
+        <teamname>Team C</teamname>
+    </employee>
+    <employee>
+        <employeeid>6</employeeid>
+        <employeename>Employee 6</employeename>
+        <teamid>3</teamid>
+        <teamname>Team C</teamname>
+    </employee>
+</employees>

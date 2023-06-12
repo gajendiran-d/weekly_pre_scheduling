@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<weeks>
+    <week>
+        <weekid>1</weekid>
+        <weekname>Week 1</weekname>
+        <fromdate>2023-05-01</fromdate>
+        <todate>2023-05-05</todate>
+    </week>
+    <week>
+        <weekid>2</weekid>
+        <weekname>Week 2</weekname>
+        <fromdate>2023-05-08</fromdate>
+        <todate>2023-05-12</todate>
+    </week>
+    <week>
+        <weekid>3</weekid>
+        <weekname>Week 3</weekname>
+        <fromdate>2023-05-15</fromdate>
+        <todate>2023-05-19</todate>
+    </week>
+    <week>
+        <weekid>4</weekid>
+        <weekname>Week 4</weekname>
+        <fromdate>2023-05-22</fromdate>
+        <todate>2023-05-26</todate>
+    </week>
+</weeks>

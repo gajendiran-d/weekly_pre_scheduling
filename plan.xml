@@ -1,0 +1,603 @@
+<?xml version="1.0"?>
+<plans>
+    <plan>
+        <planid>9124936486fee0182e1</planid>
+        <weekid>1</weekid>
+        <weekdate>2023-05-01</weekdate>
+        <empid>1</empid>
+        <empname>Employee 1</empname>
+        <teamid>1</teamid>
+        <teamname>Team A</teamname>
+        <empdata>18:48</empdata>
+    </plan>
+    <plan>
+        <planid>3548766486fee018344</planid>
+        <weekid>1</weekid>
+        <weekdate>2023-05-02</weekdate>
+        <empid>1</empid>
+        <empname>Employee 1</empname>
+        <teamid>1</teamid>
+        <teamname>Team A</teamname>
+        <empdata>21:51</empdata>
+    </plan>
+    <plan>
+        <planid>4131306486fee01835b</planid>
+        <weekid>1</weekid>
+        <weekdate>2023-05-03</weekdate>
+        <empid>1</empid>
+        <empname>Employee 1</empname>
+        <teamid>1</teamid>
+        <teamname>Team A</teamname>
+        <empdata>21:51</empdata>
+    </plan>
+    <plan>
+        <planid>5933906486fee018361</planid>
+        <weekid>1</weekid>
+        <weekdate>2023-05-04</weekdate>
+        <empid>1</empid>
+        <empname>Employee 1</empname>
+        <teamid>1</teamid>
+        <teamname>Team A</teamname>
+        <empdata>22:52</empdata>
+    </plan>
+    <plan>
+        <planid>4226336486fee01836a</planid>
+        <weekid>1</weekid>
+        <weekdate>2023-05-05</weekdate>
+        <empid>1</empid>
+        <empname>Employee 1</empname>
+        <teamid>1</teamid>
+        <teamname>Team A</teamname>
+        <empdata>22:48</empdata>
+    </plan>
+    <plan>
+        <planid>3780126486fee01836f</planid>
+        <weekid>1</weekid>
+        <weekdate>2023-05-01</weekdate>
+        <empid>2</empid>
+        <empname>Employee 2</empname>
+        <teamid>1</teamid>
+        <teamname>Team A</teamname>
+        <empdata>12:14</empdata>
+    </plan>
+    <plan>
+        <planid>8040696486fee018378</planid>
+        <weekid>1</weekid>
+        <weekdate>2023-05-02</weekdate>
+        <empid>2</empid>
+        <empname>Employee 2</empname>
+        <teamid>1</teamid>
+        <teamname>Team A</teamname>
+        <empdata>18:49</empdata>
+    </plan>
+    <plan>
+        <planid>5878406486fee018380</planid>
+        <weekid>1</weekid>
+        <weekdate>2023-05-03</weekdate>
+        <empid>2</empid>
+        <empname>Employee 2</empname>
+        <teamid>1</teamid>
+        <teamname>Team A</teamname>
+        <empdata>12:51</empdata>
+    </plan>
+    <plan>
+        <planid>2949806486fee01838b</planid>
+        <weekid>1</weekid>
+        <weekdate>2023-05-04</weekdate>
+        <empid>2</empid>
+        <empname>Employee 2</empname>
+        <teamid>1</teamid>
+        <teamname>Team A</teamname>
+        <empdata>18:50</empdata>
+    </plan>
+    <plan>
+        <planid>8932836486fee018398</planid>
+        <weekid>1</weekid>
+        <weekdate>2023-05-05</weekdate>
+        <empid>2</empid>
+        <empname>Employee 2</empname>
+        <teamid>1</teamid>
+        <teamname>Team A</teamname>
+        <empdata>12:49</empdata>
+    </plan>
+    <plan>
+        <planid>7971886486fee01839f</planid>
+        <weekid>1</weekid>
+        <weekdate>2023-05-01</weekdate>
+        <empid>3</empid>
+        <empname>Employee 3</empname>
+        <teamid>2</teamid>
+        <teamname>Team B</teamname>
+        <empdata>18:48</empdata>
+    </plan>
+    <plan>
+        <planid>3618366486fee0183af</planid>
+        <weekid>1</weekid>
+        <weekdate>2023-05-02</weekdate>
+        <empid>3</empid>
+        <empname>Employee 3</empname>
+        <teamid>2</teamid>
+        <teamname>Team B</teamname>
+        <empdata>10:49</empdata>
+    </plan>
+    <plan>
+        <planid>8380536486fee0183b7</planid>
+        <weekid>1</weekid>
+        <weekdate>2023-05-03</weekdate>
+        <empid>3</empid>
+        <empname>Employee 3</empname>
+        <teamid>2</teamid>
+        <teamname>Team B</teamname>
+        <empdata>18:49</empdata>
+    </plan>
+    <plan>
+        <planid>9008106486fee0183bf</planid>
+        <weekid>1</weekid>
+        <weekdate>2023-05-04</weekdate>
+        <empid>3</empid>
+        <empname>Employee 3</empname>
+        <teamid>2</teamid>
+        <teamname>Team B</teamname>
+        <empdata>20:50</empdata>
+    </plan>
+    <plan>
+        <planid>3749576486fee0183c6</planid>
+        <weekid>1</weekid>
+        <weekdate>2023-05-05</weekdate>
+        <empid>3</empid>
+        <empname>Employee 3</empname>
+        <teamid>2</teamid>
+        <teamname>Team B</teamname>
+        <empdata>11:13</empdata>
+    </plan>
+    <plan>
+        <planid>9479446486fee0183d4</planid>
+        <weekid>1</weekid>
+        <weekdate>2023-05-01</weekdate>
+        <empid>4</empid>
+        <empname>Employee 4</empname>
+        <teamid>2</teamid>
+        <teamname>Team B</teamname>
+        <empdata>10:48</empdata>
+    </plan>
+    <plan>
+        <planid>8188946486fee0183dc</planid>
+        <weekid>1</weekid>
+        <weekdate>2023-05-02</weekdate>
+        <empid>4</empid>
+        <empname>Employee 4</empname>
+        <teamid>2</teamid>
+        <teamname>Team B</teamname>
+        <empdata>11:49</empdata>
+    </plan>
+    <plan>
+        <planid>9189786486fee0183e2</planid>
+        <weekid>1</weekid>
+        <weekdate>2023-05-03</weekdate>
+        <empid>4</empid>
+        <empname>Employee 4</empname>
+        <teamid>2</teamid>
+        <teamname>Team B</teamname>
+        <empdata>12:22</empdata>
+    </plan>
+    <plan>
+        <planid>2273596486fee0183e8</planid>
+        <weekid>1</weekid>
+        <weekdate>2023-05-04</weekdate>
+        <empid>4</empid>
+        <empname>Employee 4</empname>
+        <teamid>2</teamid>
+        <teamname>Team B</teamname>
+        <empdata>18:49</empdata>
+    </plan>
+    <plan>
+        <planid>7350556486fee018401</planid>
+        <weekid>1</weekid>
+        <weekdate>2023-05-05</weekdate>
+        <empid>4</empid>
+        <empname>Employee 4</empname>
+        <teamid>2</teamid>
+        <teamname>Team B</teamname>
+        <empdata>10:50</empdata>
+    </plan>
+    <plan>
+        <planid>5589986486fee018407</planid>
+        <weekid>1</weekid>
+        <weekdate>2023-05-01</weekdate>
+        <empid>5</empid>
+        <empname>Employee 3</empname>
+        <teamid>3</teamid>
+        <teamname>Team C</teamname>
+        <empdata>12:52</empdata>
+    </plan>
+    <plan>
+        <planid>6736036486fee01840d</planid>
+        <weekid>1</weekid>
+        <weekdate>2023-05-02</weekdate>
+        <empid>5</empid>
+        <empname>Employee 3</empname>
+        <teamid>3</teamid>
+        <teamname>Team C</teamname>
+        <empdata>22:53</empdata>
+    </plan>
+    <plan>
+        <planid>6745016486fee018419</planid>
+        <weekid>1</weekid>
+        <weekdate>2023-05-03</weekdate>
+        <empid>5</empid>
+        <empname>Employee 3</empname>
+        <teamid>3</teamid>
+        <teamname>Team C</teamname>
+        <empdata>18:49</empdata>
+    </plan>
+    <plan>
+        <planid>9036306486fee01841f</planid>
+        <weekid>1</weekid>
+        <weekdate>2023-05-04</weekdate>
+        <empid>5</empid>
+        <empname>Employee 3</empname>
+        <teamid>3</teamid>
+        <teamname>Team C</teamname>
+        <empdata>21:52</empdata>
+    </plan>
+    <plan>
+        <planid>1352686486fee018424</planid>
+        <weekid>1</weekid>
+        <weekdate>2023-05-05</weekdate>
+        <empid>5</empid>
+        <empname>Employee 3</empname>
+        <teamid>3</teamid>
+        <teamname>Team C</teamname>
+        <empdata>22:53</empdata>
+    </plan>
+    <plan>
+        <planid>6294876486fee01842c</planid>
+        <weekid>1</weekid>
+        <weekdate>2023-05-01</weekdate>
+        <empid>6</empid>
+        <empname>Employee 6</empname>
+        <teamid>3</teamid>
+        <teamname>Team C</teamname>
+        <empdata>01:49</empdata>
+    </plan>
+    <plan>
+        <planid>7609696486fee01843d</planid>
+        <weekid>1</weekid>
+        <weekdate>2023-05-02</weekdate>
+        <empid>6</empid>
+        <empname>Employee 6</empname>
+        <teamid>3</teamid>
+        <teamname>Team C</teamname>
+        <empdata>20:49</empdata>
+    </plan>
+    <plan>
+        <planid>1919496486fee018443</planid>
+        <weekid>1</weekid>
+        <weekdate>2023-05-03</weekdate>
+        <empid>6</empid>
+        <empname>Employee 6</empname>
+        <teamid>3</teamid>
+        <teamname>Team C</teamname>
+        <empdata>19:38</empdata>
+    </plan>
+    <plan>
+        <planid>5830716486fee018449</planid>
+        <weekid>1</weekid>
+        <weekdate>2023-05-04</weekdate>
+        <empid>6</empid>
+        <empname>Employee 6</empname>
+        <teamid>3</teamid>
+        <teamname>Team C</teamname>
+        <empdata>15:52</empdata>
+    </plan>
+    <plan>
+        <planid>1824496486fee01844f</planid>
+        <weekid>1</weekid>
+        <weekdate>2023-05-05</weekdate>
+        <empid>6</empid>
+        <empname>Employee 6</empname>
+        <teamid>3</teamid>
+        <teamname>Team C</teamname>
+        <empdata>19:50</empdata>
+    </plan>
+    <plan>
+        <planid>3716856487144d85bf9</planid>
+        <weekid>2</weekid>
+        <weekdate>2023-05-08</weekdate>
+        <empid>1</empid>
+        <empname>Employee 1</empname>
+        <teamid>1</teamid>
+        <teamname>Team A</teamname>
+        <empdata>23:38</empdata>
+    </plan>
+    <plan>
+        <planid>6171346487144d85cb4</planid>
+        <weekid>2</weekid>
+        <weekdate>2023-05-09</weekdate>
+        <empid>1</empid>
+        <empname>Employee 1</empname>
+        <teamid>1</teamid>
+        <teamname>Team A</teamname>
+        <empdata>22:37</empdata>
+    </plan>
+    <plan>
+        <planid>6022476487144d85cc7</planid>
+        <weekid>2</weekid>
+        <weekdate>2023-05-10</weekdate>
+        <empid>1</empid>
+        <empname>Employee 1</empname>
+        <teamid>1</teamid>
+        <teamname>Team A</teamname>
+        <empdata>19:34</empdata>
+    </plan>
+    <plan>
+        <planid>5806546487144d85ce4</planid>
+        <weekid>2</weekid>
+        <weekdate>2023-05-11</weekdate>
+        <empid>1</empid>
+        <empname>Employee 1</empname>
+        <teamid>1</teamid>
+        <teamname>Team A</teamname>
+        <empdata>12:36</empdata>
+    </plan>
+    <plan>
+        <planid>7653476487144d85cf1</planid>
+        <weekid>2</weekid>
+        <weekdate>2023-05-12</weekdate>
+        <empid>1</empid>
+        <empname>Employee 1</empname>
+        <teamid>1</teamid>
+        <teamname>Team A</teamname>
+        <empdata>02:35</empdata>
+    </plan>
+    <plan>
+        <planid>5978236487144d85cfe</planid>
+        <weekid>2</weekid>
+        <weekdate>2023-05-08</weekdate>
+        <empid>2</empid>
+        <empname>Employee 2</empname>
+        <teamid>1</teamid>
+        <teamname>Team A</teamname>
+        <empdata>06:45</empdata>
+    </plan>
+    <plan>
+        <planid>3691286487144d85d09</planid>
+        <weekid>2</weekid>
+        <weekdate>2023-05-09</weekdate>
+        <empid>2</empid>
+        <empname>Employee 2</empname>
+        <teamid>1</teamid>
+        <teamname>Team A</teamname>
+        <empdata>20:36</empdata>
+    </plan>
+    <plan>
+        <planid>5219436487144d85d13</planid>
+        <weekid>2</weekid>
+        <weekdate>2023-05-10</weekdate>
+        <empid>2</empid>
+        <empname>Employee 2</empname>
+        <teamid>1</teamid>
+        <teamname>Team A</teamname>
+        <empdata>11:36</empdata>
+    </plan>
+    <plan>
+        <planid>7966236487144d85d1f</planid>
+        <weekid>2</weekid>
+        <weekdate>2023-05-11</weekdate>
+        <empid>2</empid>
+        <empname>Employee 2</empname>
+        <teamid>1</teamid>
+        <teamname>Team A</teamname>
+        <empdata>22:38</empdata>
+    </plan>
+    <plan>
+        <planid>1782956487144d85d2c</planid>
+        <weekid>2</weekid>
+        <weekdate>2023-05-12</weekdate>
+        <empid>2</empid>
+        <empname>Employee 2</empname>
+        <teamid>1</teamid>
+        <teamname>Team A</teamname>
+        <empdata>21:37</empdata>
+    </plan>
+    <plan>
+        <planid>3983786487144d85d3d</planid>
+        <weekid>2</weekid>
+        <weekdate>2023-05-08</weekdate>
+        <empid>3</empid>
+        <empname>Employee 3</empname>
+        <teamid>2</teamid>
+        <teamname>Team B</teamname>
+        <empdata>13:38</empdata>
+    </plan>
+    <plan>
+        <planid>1913726487144d85d4c</planid>
+        <weekid>2</weekid>
+        <weekdate>2023-05-09</weekdate>
+        <empid>3</empid>
+        <empname>Employee 3</empname>
+        <teamid>2</teamid>
+        <teamname>Team B</teamname>
+        <empdata>21:37</empdata>
+    </plan>
+    <plan>
+        <planid>5576596487144d85d6a</planid>
+        <weekid>2</weekid>
+        <weekdate>2023-05-10</weekdate>
+        <empid>3</empid>
+        <empname>Employee 3</empname>
+        <teamid>2</teamid>
+        <teamname>Team B</teamname>
+        <empdata>21:38</empdata>
+    </plan>
+    <plan>
+        <planid>3719966487144d85d7c</planid>
+        <weekid>2</weekid>
+        <weekdate>2023-05-11</weekdate>
+        <empid>3</empid>
+        <empname>Employee 3</empname>
+        <teamid>2</teamid>
+        <teamname>Team B</teamname>
+        <empdata>13:38</empdata>
+    </plan>
+    <plan>
+        <planid>8295416487144d85d88</planid>
+        <weekid>2</weekid>
+        <weekdate>2023-05-12</weekdate>
+        <empid>3</empid>
+        <empname>Employee 3</empname>
+        <teamid>2</teamid>
+        <teamname>Team B</teamname>
+        <empdata>22:05</empdata>
+    </plan>
+    <plan>
+        <planid>3839426487144d85d93</planid>
+        <weekid>2</weekid>
+        <weekdate>2023-05-08</weekdate>
+        <empid>4</empid>
+        <empname>Employee 4</empname>
+        <teamid>2</teamid>
+        <teamname>Team B</teamname>
+        <empdata>21:00</empdata>
+    </plan>
+    <plan>
+        <planid>8638896487144d85da3</planid>
+        <weekid>2</weekid>
+        <weekdate>2023-05-09</weekdate>
+        <empid>4</empid>
+        <empname>Employee 4</empname>
+        <teamid>2</teamid>
+        <teamname>Team B</teamname>
+        <empdata>13:38</empdata>
+    </plan>
+    <plan>
+        <planid>3600376487144d85db4</planid>
+        <weekid>2</weekid>
+        <weekdate>2023-05-10</weekdate>
+        <empid>4</empid>
+        <empname>Employee 4</empname>
+        <teamid>2</teamid>
+        <teamname>Team B</teamname>
+        <empdata>13:37</empdata>
+    </plan>
+    <plan>
+        <planid>6588416487144d85dc1</planid>
+        <weekid>2</weekid>
+        <weekdate>2023-05-11</weekdate>
+        <empid>4</empid>
+        <empname>Employee 4</empname>
+        <teamid>2</teamid>
+        <teamname>Team B</teamname>
+        <empdata>13:38</empdata>
+    </plan>
+    <plan>
+        <planid>4636026487144d85dd4</planid>
+        <weekid>2</weekid>
+        <weekdate>2023-05-12</weekdate>
+        <empid>4</empid>
+        <empname>Employee 4</empname>
+        <teamid>2</teamid>
+        <teamname>Team B</teamname>
+        <empdata>12:54</empdata>
+    </plan>
+    <plan>
+        <planid>2654236487144d85de7</planid>
+        <weekid>2</weekid>
+        <weekdate>2023-05-08</weekdate>
+        <empid>5</empid>
+        <empname>Employee 3</empname>
+        <teamid>3</teamid>
+        <teamname>Team C</teamname>
+        <empdata>13:38</empdata>
+    </plan>
+    <plan>
+        <planid>4278186487144d85dfb</planid>
+        <weekid>2</weekid>
+        <weekdate>2023-05-09</weekdate>
+        <empid>5</empid>
+        <empname>Employee 3</empname>
+        <teamid>3</teamid>
+        <teamname>Team C</teamname>
+        <empdata>13:38</empdata>
+    </plan>
+    <plan>
+        <planid>6790506487144d85e10</planid>
+        <weekid>2</weekid>
+        <weekdate>2023-05-10</weekdate>
+        <empid>5</empid>
+        <empname>Employee 3</empname>
+        <teamid>3</teamid>
+        <teamname>Team C</teamname>
+        <empdata>13:38</empdata>
+    </plan>
+    <plan>
+        <planid>2626816487144d85e28</planid>
+        <weekid>2</weekid>
+        <weekdate>2023-05-11</weekdate>
+        <empid>5</empid>
+        <empname>Employee 3</empname>
+        <teamid>3</teamid>
+        <teamname>Team C</teamname>
+        <empdata>13:36</empdata>
+    </plan>
+    <plan>
+        <planid>4520456487144d85e41</planid>
+        <weekid>2</weekid>
+        <weekdate>2023-05-12</weekdate>
+        <empid>5</empid>
+        <empname>Employee 3</empname>
+        <teamid>3</teamid>
+        <teamname>Team C</teamname>
+        <empdata>13:38</empdata>
+    </plan>
+    <plan>
+        <planid>9911176487144d85e71</planid>
+        <weekid>2</weekid>
+        <weekdate>2023-05-08</weekdate>
+        <empid>6</empid>
+        <empname>Employee 6</empname>
+        <teamid>3</teamid>
+        <teamname>Team C</teamname>
+        <empdata>21:35</empdata>
+    </plan>
+    <plan>
+        <planid>3301396487144d85e7e</planid>
+        <weekid>2</weekid>
+        <weekdate>2023-05-09</weekdate>
+        <empid>6</empid>
+        <empname>Employee 6</empname>
+        <teamid>3</teamid>
+        <teamname>Team C</teamname>
+        <empdata>13:37</empdata>
+    </plan>
+    <plan>
+        <planid>9663366487144d85e91</planid>
+        <weekid>2</weekid>
+        <weekdate>2023-05-10</weekdate>
+        <empid>6</empid>
+        <empname>Employee 6</empname>
+        <teamid>3</teamid>
+        <teamname>Team C</teamname>
+        <empdata>13:38</empdata>
+    </plan>
+    <plan>
+        <planid>3288536487144d85ea4</planid>
+        <weekid>2</weekid>
+        <weekdate>2023-05-11</weekdate>
+        <empid>6</empid>
+        <empname>Employee 6</empname>
+        <teamid>3</teamid>
+        <teamname>Team C</teamname>
+        <empdata>19:36</empdata>
+    </plan>
+    <plan>
+        <planid>7654916487144d85eb9</planid>
+        <weekid>2</weekid>
+        <weekdate>2023-05-12</weekdate>
+        <empid>6</empid>
+        <empname>Employee 6</empname>
+        <teamid>3</teamid>
+        <teamname>Team C</teamname>
+        <empdata>21:38</empdata>
+    </plan>
+</plans>
