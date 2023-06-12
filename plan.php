@@ -178,6 +178,8 @@
 			var empDataFullCalculation = timeCalculation(empDataFull);
 			$("#total").val(empDataFullCalculation);
 		});
+		// Trigger the change event on page load
+  		$(".emp_data").trigger("change");
 	});
 
 	function timeCalculation(times) {
